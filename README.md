@@ -1,4 +1,4 @@
-BNS & IPC Legal Guide – Indian Bare Acts, Criminal Laws & Judgments
+#BNS & IPC Legal Guide – Indian Bare Acts, Criminal Laws & Judgments
 
 A simple reference library for Indian laws, Bare Acts, criminal law updates, and important court judgments.
 
@@ -10,7 +10,7 @@ The repository focuses on India's new criminal laws, the transition from the Ind
 
 For detailed explanations, section-wise legal guides, and additional reference material, visit LLBVarun.com.
 
-📚 What's Covered in This Legal Guide?
+##📚 What's Covered in This Legal Guide?
 1. Bharatiya Nyaya Sanhita (BNS) and Indian Penal Code (IPC)
 
 The introduction of the Bharatiya Nyaya Sanhita, 2023, marked a major change in India's criminal law framework. The BNS replaced the IPC for offences governed by the new law, subject to applicable commencement and transitional provisions.
@@ -119,7 +119,7 @@ Indian Bare Acts and Legal Updates
 
 These links point to the main website. Replace them with specific article URLs when the corresponding pages are available.
 
-🎯 Who Is This Repository For?
+##🎯 Who Is This Repository For?
 
 This repository may be useful for:
 
@@ -128,7 +128,7 @@ Lawyers and legal professionals looking for starting points for statutory resear
 Judicial services aspirants revising criminal law and important legal provisions.
 Legal researchers exploring Indian legislation and case law.
 Citizens and general readers seeking a basic understanding of Indian law.
-🤝 Contributions and Feedback
+##🤝 Contributions and Feedback
 
 Suggestions, corrections, and contributions that improve the accuracy and accessibility of these legal references are welcome.
 
@@ -136,7 +136,7 @@ If you identify an outdated provision, an incorrect section reference, or a usef
 
 Please include a reliable statutory or judicial source wherever possible so that legal information can be checked and verified.
 
-⚠️ Legal Disclaimer
+##⚠️ Legal Disclaimer
 
 This repository and the linked website are intended for educational and informational purposes only. They do not constitute legal advice and do not establish an advocate-client relationship.
 
