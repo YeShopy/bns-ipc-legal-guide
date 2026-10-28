@@ -2,7 +2,7 @@ BNS & IPC Legal Guide – Indian Bare Acts, Criminal Laws & Judgments
 
 A simple reference library for Indian laws, Bare Acts, criminal law updates, and important court judgments.
 
-🌐 Explore the complete legal reference library: LLB Varun – Indian Law Reference
+🌐 Explore the complete legal reference library: [LLB Varun](https://llbvarun.com/) – Indian Law Reference
 
 Welcome to bns-ipc-legal-guide, a legal reference repository created to help law students, advocates, researchers, and anyone interested in Indian law find and understand important legal provisions.
 
@@ -95,7 +95,7 @@ Always consult the original judgment when relying on a decision for legal resear
 
 Legal research can be time-consuming, especially when you need to compare statutory provisions or understand a particular section quickly.
 
-LLB Varun provides a starting point for exploring Indian law through:
+[LLB Varun](https://llbvarun.com/) provides a starting point for exploring Indian law through:
 
 Easy-to-understand explanations: Legal concepts and statutory provisions presented in accessible language.
 BNS vs IPC references: Help understanding the transition from the former IPC to the new BNS framework.
