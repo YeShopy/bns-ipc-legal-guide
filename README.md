@@ -7,6 +7,19 @@ This repository provides clear explainers, comparison tables, and tracking for m
 
 👉 **[Access Full Bare Acts & Judgments on LLB Varun](https://llbvarun.com)**
 
+# Indian Law Reference Library | BNS, IPC, Bare Acts & Judgments by LLB Varun
+
+Welcome to the **Indian Law Reference Library**, an open-source digital repository managed by LLB Varun, offering statutory interpretations and case laws for legal professionals and students. Access the complete database at [LLB Varun](https://llbvarun.com).
+
+## ⚖️ Key Legal Modules Covered
+* **New Criminal Laws (2024):** Tracking transitions from the IPC to the Bharatiya Nyaya Sanhita (BNS) 2023, BNSS 2023, and BSA 2023 (e.g., Section 305 BNS/Section 380 IPC and Section 318(4) BNS/Section 420 IPC).
+* **Landmark Judgments:** Summaries of Supreme Court precedents on bail jurisprudence and anticipatory bail parameters.
+* **Special Acts:** Procedural guides under the Domestic Violence Act, 2005 (Sections 29–34).
+* **Civil & Family Frameworks:** Guides on contract, property, Hindu marriage, and succession acts.
+
+* Explore the full guides and external resources directly via [LLB Varun](https://llbvarun.com).
+
+
 ## 📚 Key Legal Modules Covered
 Get detailed legal analysis, punishment parameters, and bail status updates on the live portal:
 
