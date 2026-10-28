@@ -1,15 +1,11 @@
 # bns-ipc-legal-guide
 # Indian Law Reference Library & Legal Updates by LLB Varun
 
-Welcome to the **Indian Law Reference Library**, a curated open-source repository designed for law students, legal practitioners, and citizens seeking accessible information on Indian Bare Acts, criminal law amendments, and landmark Supreme Court judgments.
-
-This repository provides clear explainers, comparison tables, and tracking for major legal frameworks in India.
-
 👉 **[Access Full Bare Acts & Judgments on LLB Varun](https://llbvarun.com)**
 
 # Indian Law Reference Library | BNS, IPC, Bare Acts & Judgments by LLB Varun
 
-Welcome to the **Indian Law Reference Library**, an open-source digital repository managed by LLB Varun, offering statutory interpretations and case laws for legal professionals and students. Access the complete database at [LLB Varun](https://llbvarun.com).
+Welcome to the **Indian Law Reference Library**, a curated open-source repository designed for law students, legal practitioners, and citizens seeking accessible information on Indian Bare Acts, criminal law amendments, and landmark Supreme Court judgments. Access the complete database at [LLB Varun](https://llbvarun.com).
 
 ## ⚖️ Key Legal Modules Covered
 * **New Criminal Laws (2024):** Tracking transitions from the IPC to the Bharatiya Nyaya Sanhita (BNS) 2023, BNSS 2023, and BSA 2023 (e.g., Section 305 BNS/Section 380 IPC and Section 318(4) BNS/Section 420 IPC).
